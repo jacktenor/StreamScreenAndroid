@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StreamScreenAndroid</string>
+    <string name="start_streaming">Start Streaming</string>
+    <string name="stop_streaming">Stop Streaming</string>
+    <string name="enter_port_number">Enter Port Number</string>
+    <string name="start_streaming2">Start Streaming</string>
+    <string name="start_streaming3">Start Streaming</string>
+    <string name="stop_streaming3">Stop Streaming</string>
+    <string name="enter_ip_address">Enter IP Address</string>
+    <string name="stop_streaming4">Stop Streaming</string>
+    <string name="start_streaming4">Start Streaming</string>
+    <string name="enter_port_number6">Enter Port Number</string>
+    <string name="start_streaming6">Start Streaming</string>
+    <string name="start_streaming7">Start Streaming</string>
+    <string name="stop_streaming7">Stop Streaming</string>
+    <string name="streamscreen">StreamScreen</string>
+    <string name="share_your_screen_with_the_client">Share your screen with the client.</string>
+    <string name="port_number">Port Number</string>
+    <string name="beeralator_com">Beeralator.com</string>
+    <string name="the_cat">the_cat</string>
+    <string name="start_streaming22">Start Streaming</string>
+    <string name="stop_streaming22">Stop Streaming</string>
+</resources>
